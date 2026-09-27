@@ -1,0 +1,30 @@
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            transition: 0.3s;
+        }
+
+        button {
+            margin: 5px 0;
+            padding: 8px 12px;
+            cursor: pointer;
+        }
+
+        .dark-mode {
+            background-color: #222;
+            color: white;
+        }
+
+        img {
+            width: 150px;
+            display: block;
+            margin-top: 10px;
+        }
+
+        section {
+            margin-bottom: 30px;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 15px;
+        }
